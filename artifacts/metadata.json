@@ -1,0 +1,17 @@
+{
+  "dataset_id": "nlile/hendrycks-MATH-benchmark",
+  "dataset_columns": {
+    "problem": "problem",
+    "topic": "subject",
+    "level": "level"
+  },
+  "model_name": "distilbert-base-uncased",
+  "max_length": 320,
+  "train_size": 9730,
+  "val_size": 2433,
+  "epochs_ran": 5,
+  "best_topic_macro_f1": 0.785861193336394,
+  "best_val_loss": 0.9777444891440563,
+  "device": "mps",
+  "tb_log_dir": "artifacts/tb_logs"
+}
