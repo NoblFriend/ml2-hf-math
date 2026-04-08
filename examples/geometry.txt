@@ -1,0 +1,1 @@
+In triangle ABC, AB = AC and angle BAC = 40 degrees. Find angle BCA.
